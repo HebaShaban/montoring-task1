@@ -1,4 +1,4 @@
-![image](https://github.com/HebaShaban/montoring-task1/assets/128882939/ad11f993-1261-411c-a411-15fdbbf435f3)# montoring-task1
+# montoring-task1
 
 # 1) What are the different HTTP status codes and explain their meaning?
 
