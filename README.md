@@ -8,7 +8,7 @@
 
 # - The Prometheus server reads targets at given intervals defined by you to collect metrics and store them in a time series database. Metrics in the Prometheus time series database are stored using the PromQL query language.
 
-# TSDB 'Time-Series Database'
+- TSDB 'Time-Series Database'
 
 # 3) What is the difference between different metrics types ( counter, gauge, histogram)?
 
@@ -16,9 +16,11 @@
 
 # 4) Install Prometheus on your local host or on a server in any cloud provider.
 
+# ![installtion](https://github.com/HebaShaban/montoring-task1/assets/128882939/cb379484-8acb-478e-9fb0-2e19cf8cb7a6)
+
+
 # ![Screenshot 2023-07-28 101750](https://github.com/HebaShaban/montoring-task1/assets/128882939/779ab3c7-0a8d-4720-a0de-65e2afe27fc8)
 
-# ![installtion](https://github.com/HebaShaban/montoring-task1/assets/128882939/cb379484-8acb-478e-9fb0-2e19cf8cb7a6)
 
 # ![explore](https://github.com/HebaShaban/montoring-task1/assets/128882939/3ec03aee-9262-40be-99da-589b013dcaca)
 
@@ -41,6 +43,3 @@
 
 # ![qeuary](https://github.com/HebaShaban/montoring-task1/assets/128882939/cf158237-71aa-45cb-b684-206e5ee1aee8)
 
-
-
-#
